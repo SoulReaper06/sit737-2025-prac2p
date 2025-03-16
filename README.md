@@ -13,8 +13,16 @@ This project is a simple Node.js web server using the Express framework to serve
 - ✅ **Chat Simulator for Simulated Conversations**
 
 ## Project Structure
-├── public │ ├── index.html │ ├── about.html │ ├── contact.html │ ├── chat.html │ ├── style.css │ ├── script.js │ ├── chat.js ├── server.js ├── package.json ├── README.md
 
+1. node_modules
+2. public
+   - index.html
+   - chatbot.html
+   - script.js
+   - style.css
+3. app.js
+4. package-lock.json
+5. package.json
 
 ---
 
@@ -26,6 +34,20 @@ Ensure you have **Node.js** installed. You can check by running:
 
 ```sh
 node -v
+```
 
+1. Clone the Repository
+   ```sh
+   git clone https://github.com/yourusername/sit737-2025-prac2p.git
+   cd sit737-2025-prac2p
+   ```
+1. Install NPM packages
+   ```sh
+   npm install
+   ```
+1. Install NPM packages
+   ```sh
+   npm install
+   ```
 
 
