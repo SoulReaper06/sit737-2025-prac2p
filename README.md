@@ -38,7 +38,7 @@ node -v
 
 1. Clone the Repository
    ```sh
-   git clone https://github.com/yourusername/sit737-2025-prac2p.git
+   git clone https://github.com/SoulReaper06/sit737-2025-prac2p.git
    cd sit737-2025-prac2p
    ```
 2. Install NPM packages
