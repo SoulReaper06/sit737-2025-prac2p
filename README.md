@@ -7,10 +7,10 @@ This project is a simple Node.js web server using the Express framework to serve
 ## Features
 
 - ✅ Express-based Web Server
-- ✅ Serves Static HTML, CSS, and JavaScript
-- ✅ Styled Web Pages with External CSS
-- ✅ Interactive JavaScript Functionality
-- ✅ **Chat Simulator for Simulated Conversations**
+- ✅ Has Static HTML, CSS, and JavaScript
+- ✅ Web Pages with External CSS
+- ✅ JavaScript Functionality
+- ✅ **Chat Simulator**
 
 ## Project Structure
 
@@ -41,13 +41,13 @@ node -v
    git clone https://github.com/yourusername/sit737-2025-prac2p.git
    cd sit737-2025-prac2p
    ```
-1. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-1. Install NPM packages
+3. Start the Server:
    ```sh
-   npm install
+   node app.js
    ```
 
 
